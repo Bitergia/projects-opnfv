@@ -3,17 +3,14 @@
         "askbot": [
             "https://ask.opnfv.org"
         ],
+        "jira": [
+            "https://jira.opnfv.org"
+        ],
         "confluence": [
             "https://wiki.opnfv.org"
         ],
         "gerrit": [
             "gerrit.opnfv.org"
-        ],
-        "jenkins": [
-            "https://build.opnfv.org/ci"
-        ],
-        "jira": [
-            "https://jira.opnfv.org"
         ],
         "git": [
             "git://git.opnfv.org/policytest",
@@ -85,7 +82,14 @@
             "http://lists.opnfv.org/pipermail/opnfv-tech-discuss",
             "http://lists.opnfv.org/pipermail/opnfv-users",
             "http://lists.opnfv.org/pipermail/opnfv-security",
-            "http://lists.opnfv.org/pipermail/opnfv-project-leads"
+            "http://lists.opnfv.org/pipermail/opnfv-project-leads",
+            "https://lists.opnfv.org/pipermail/infra-wg",
+            "https://lists.opnfv.org/pipermail/mano-wg",
+            "https://lists.opnfv.org/pipermail/test-wg",
+            "https://lists.opnfv.org/pipermail/odl-dev",
+            "https://lists.opnfv.org/pipermail/openstack-dev",
+            "https://lists.opnfv.org/pipermail/fdio-dev",
+            "https://lists.opnfv.org/pipermail/fds-dev"
         ],
         "supybot": [
             "irc://chat.freenode.net/fdio /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#fdio",
@@ -144,6 +148,10 @@
             "irc://chat.freenode.net/opnfv-pharos /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#opnfv-pharos",
             "irc://chat.freenode.net/opnfv-rs /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#opnfv-rs",
             "irc://chat.freenode.net/rpm_dpdk /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#rpm_dpdk"
+        ],
+        "jenkins": [
+            "https://build.opnfv.org/ci"
         ]
     }
 }
+
