@@ -150,7 +150,7 @@
             "irc://chat.freenode.net/rpm_dpdk /home/bitergia/irc/percevalbot/logs/ChannelLogger/freenode/#rpm_dpdk"
         ],
         "jenkins": [
-            "https://build.opnfv.org/ci"
+            "https://build.opnfv.org/ci --jenkins-rename-file /home/bitergia/conf/jenkins/jenkins_nodes_201612.csv"
         ]
     }
 }
